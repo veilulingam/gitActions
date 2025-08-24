@@ -17,4 +17,4 @@ jobs:
            python-version: '3.13'
 
         - name: run a py script
-          run:  python helllo.py
+          run:  python 01.helllo.py
